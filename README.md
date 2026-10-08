@@ -44,7 +44,7 @@ The objective of this project is to build an intelligent knowledge assistant tha
 
 ### LLM
 
-* Gemini 2.0 Flash
+* Gemini 2.5 Flash
 
 ---
 
